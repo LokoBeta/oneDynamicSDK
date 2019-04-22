@@ -29,7 +29,7 @@
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		639B08CA226DACED004D869F /* oneHello.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = oneHello.h; sourceTree = "<group>"; };
 		639B08CB226DACED004D869F /* oneHello.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = oneHello.m; sourceTree = "<group>"; };
-		7368F1F292F6D4AB94F1E375 /* oneDynamicSDK.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = oneDynamicSDK.podspec; path = ../oneDynamicSDK.podspec; sourceTree = "<group>"; };
+		7368F1F292F6D4AB94F1E375 /* oneDynamicSDK.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = oneDynamicSDK.podspec; path = ../oneDynamicSDK.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		8454259AA4A10EFDDBF2FACE /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		AA7E3615C63B735586F46DFA /* Pods-oneDynamicSDK_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-oneDynamicSDK_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-oneDynamicSDK_Tests/Pods-oneDynamicSDK_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		E055F4D48222EC49C9031402 /* Pods_oneDynamicSDK_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_oneDynamicSDK_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
