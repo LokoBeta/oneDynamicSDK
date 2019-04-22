@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'DemoClasses'
+  s.source_files = 'oneDynamicSDK/DemoClasses'
   
   # s.resource_bundles = {
   #   'oneDynamicSDK' => ['oneDynamicSDK/Assets/*.png']
