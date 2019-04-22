@@ -1,0 +1,6 @@
+use_frameworks!
+target 'oneDynamicSDK_Tests' do
+  pod 'oneDynamicSDK', :path => '../'
+  
+  
+end

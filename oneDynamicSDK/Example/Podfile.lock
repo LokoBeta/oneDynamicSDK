@@ -1,0 +1,16 @@
+PODS:
+  - oneDynamicSDK (0.1.0)
+
+DEPENDENCIES:
+  - oneDynamicSDK (from `../`)
+
+EXTERNAL SOURCES:
+  oneDynamicSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  oneDynamicSDK: 5d2f9da976068c2af034a70706403c3758edfe81
+
+PODFILE CHECKSUM: ca732e75e40b07e1024e9eb5e378a5d0ee650bba
+
+COCOAPODS: 1.5.3
